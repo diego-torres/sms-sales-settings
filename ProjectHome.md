@@ -1,0 +1,1 @@
+Java Web Application for schedules and catalogs administration for sending sms.
